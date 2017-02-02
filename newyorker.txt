@@ -1,0 +1,41 @@
+1)	What percentage of the characters were non-white?
+		
+Row Labels	Count of Ethnicity	
+nw	96	0.053038674
+w	1714	0.946961326
+Grand Total	1810	
+
+5.3% of the characters were non-white.
+
+
+
+2)	What percentage of the characters were women?
+		
+Row Labels	Count of Gender	
+f	533	0.294475138
+m	1277	0.705524862
+Grand Total	1810	
+
+29.4% of the characters were female.
+
+
+
+3)	Which cartoonist had the highest percentage of non-white characters?
+
+Cartoonist "Suits" had the highest percentage of non-white characters, which is 4 out of 10. So the percentage is 40%.
+
+
+
+4)	What percentage of the characters were both non-white and female?
+0.053 * 0.2945 = 1.56%
+
+
+
+
+
+5)	Write a paragraph that summarizes your key findings. (you can use the results from questions above and/or do your own additional analysis)
+Among all cartoonist, most characters, about 95%, were white. Non-white characters were only 5% of total.
+And female characters were only represented 29% of total population. 
+Thus, we can conclude that non-white and female characters were still the minority among characters.
+The highest percentage of non-white characters is 40%, which is still lower than 50%. 
+None of cartoonist had equal number of white and non-white characters. 
