@@ -10,7 +10,7 @@ Grant	BARACK OBAMA	4586	15.66%
 
 2. How many counties did President Obama receive less than 50% of the vote?
 
-    54 counties
+    55 counties
 
 
 3. What was the largest difference in the number of votes between Manchin and Obama? Which county?
